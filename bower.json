@@ -1,0 +1,28 @@
+{
+  "name": "n",
+  "description": "This is to learn how to create Mean Stack",
+  "main": "index.js",
+  "authors": [
+    "eveng thao <eveng.thao@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/evengthao/meanstack",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "angular": "~1.4.7",
+    "angular-route": "~1.4.7",
+    "angular-resource": "~1.4.7",
+    "stylus": "~0.52.4",
+    "body-parser": "~1.14.1",
+    "bootstrap": "~3.3.5",
+    "toastr": "~2.1.2"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "pluralsight_meanstack",
+  "version": "1.0.0",
+  "description": "This is to learn how to create Mean Stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evengthao/meanstack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evengthao/meanstack/issues"
+  },
+  "homepage": "https://github.com/evengthao/meanstack#readme",
+  "dependencies": {
+    "angular": "^1.4.7",
+    "angular-resource": "^1.4.7",
+    "angular-route": "^1.4.7",
+    "body-parser": "^1.14.1",
+    "ejs": "^2.3.4",
+    "ejs-locals": "^1.0.2",
+    "express": "^4.13.3",
+    "jquery": "^2.1.4",
+    "morgan": "^1.6.1",
+    "stylus": "^0.52.4",
+    "toastr": "^2.1.2"
+  }
+}
