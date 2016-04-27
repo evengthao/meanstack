@@ -26,6 +26,7 @@ app.use(stylus.middleware(
 ));
 
 
+
 // allow access to all public directory as the root.
 app.use(express.static(__dirname + '/public'));   
 
